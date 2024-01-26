@@ -1,5 +1,7 @@
 # Laravel + Inertia + Vue + Tailwind Template
 
+Funny thing : we will use this login screen i have built previously : https://replit.com/@ElvisAns/Magic-login-screen-with-fun-bear-transition
+
 This repository provides a starting point for building a web application using Laravel, Inertia, Vue.js, and Tailwind CSS. It includes basic features commonly used in web applications.
 
 ## Features
