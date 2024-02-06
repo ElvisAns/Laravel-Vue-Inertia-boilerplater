@@ -14,7 +14,7 @@ This repository provides a starting point for building a web application using L
 
 - **Basic Tailwind Classes:** Some basic Tailwind CSS classes are applied using the `@apply` directive.
 
-- **Authentication:**
+- **Authentication:** (we can ref from https://bootcamp.laravel.com/inertia/installation)
   - Sign In
   - Sign Up
   - Profile Page
